@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #dc3545;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.project-gallery {
+    padding: 20px;
+    text-align: center;
+}
+
+.project {
+    background-color: white;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
